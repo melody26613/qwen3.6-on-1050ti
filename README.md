@@ -470,5 +470,7 @@ docker run -d \
 
 * ref:
 
-1. [神人成功在 GTX 1060 6GB 上順跑 Qwen 3.6 35B A3B 模型，只需加入這五個參數](https://www.koc.com.tw/archives/642193)
-2. [Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide)](https://www.youtube.com/watch?v=8F_5pdcD3HY)
+1. [設定讓外部主機可連上 WSL 內的服務(Port Forwarding)](https://www.ichiayi.com/tech/wsl_portforwarding)
+2. [神人成功在 GTX 1060 6GB 上順跑 Qwen 3.6 35B A3B 模型，只需加入這五個參數](https://www.koc.com.tw/archives/642193)
+3. [Running a 35B AI Model on 6GB VRAM, FAST (llama.cpp Guide)](https://www.youtube.com/watch?v=8F_5pdcD3HY)
+4. [unsloth/Qwen3.6-35B-A3B-GGUF](https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF)
